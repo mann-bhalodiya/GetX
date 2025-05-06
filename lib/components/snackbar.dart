@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 
 void snackBarHelper() {
   Get.snackbar(
-    "Message from Sahil",
+    "Message from Flutter",
     "Good morning! Have a great Day",
     animationDuration: Duration(seconds: 1),
     duration: Duration(seconds: 5),
